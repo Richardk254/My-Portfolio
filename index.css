@@ -33,3 +33,18 @@ ul li {
     display: flex;
 }
 /* end of header section */
+.sec1{
+    background-color: #FFC900;
+    height: 400px;
+    display: flex;
+}
+.sec1 img{
+    margin-left: 40%;
+    width: 500px;
+    padding-top: 1%;
+}
+.sec1 p{
+    padding-left: 10%;
+    padding-top: 10%;
+    font-size: 35px;
+}
