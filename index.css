@@ -48,3 +48,11 @@ ul li {
     padding-top: 10%;
     font-size: 35px;
 }
+.design{
+    display: flex;
+}
+.python{
+    box-sizing: border-box;
+    margin: 2px;
+    text-align: center;
+}
