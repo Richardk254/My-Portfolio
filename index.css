@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+ 
+}
+.nav{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 60px;
+}
+.nav h2{
+    padding-top: 1%;
+}
+.link{
+    margin-left: 40%;
+    padding-top: 1%;
+}
+ul li {
+    display:inline;
+    padding: 25px 30px;
+    font-size: 20px;
+    color:white;
+    
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+  }
+
+.nav link{
+    display: flex;
+}
+/* end of header section */
