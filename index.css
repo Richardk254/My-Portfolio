@@ -84,10 +84,14 @@ ul li {
 .description{
     display: flex;
     padding-top: 3%;
+
 }
-.description img{
-    background-color: #FFC900;
-}
+
 .web{
     margin-left: 40%;
+}
+.sec4{
+    background-color: #FFC900;
+    height: 500px;
+
 }
