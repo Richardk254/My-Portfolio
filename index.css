@@ -95,3 +95,15 @@ ul li {
     height: 500px;
 
 }
+.contact{
+    display: flex;
+    padding-left: 20%;
+    padding-top: 5%;
+}
+.last{
+    margin-left: 30%;
+
+}
+.footer{
+    
+}
