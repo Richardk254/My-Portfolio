@@ -81,3 +81,13 @@ ul li {
     font-size: 30px;
     padding-top: 2%;
 }
+.description{
+    display: flex;
+    padding-top: 3%;
+}
+.description img{
+    background-color: #FFC900;
+}
+.web{
+    margin-left: 40%;
+}
