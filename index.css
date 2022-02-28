@@ -3,7 +3,7 @@
     margin: 0%;
 }
 body{
- 
+ font-size: 25px;
 }
 .nav{
     display: flex;
@@ -58,7 +58,7 @@ ul li {
     box-sizing: border-box;
     margin: 15px;
     border: 2px solid rgb(83, 83, 83);
-    height: 200px;
+    height: 300px;
     width: 250px;
     border-radius: 10px;
     margin-left: 15%;
@@ -92,7 +92,7 @@ ul li {
 }
 .sec4{
     background-color: #FFC900;
-    height: 500px;
+    height: 550px;
 
 }
 .contact{
