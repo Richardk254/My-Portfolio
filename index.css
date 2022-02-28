@@ -48,6 +48,9 @@ ul li {
     padding-top: 10%;
     font-size: 35px;
 }
+.sec3{
+    height: 400px;
+}
 .design{
     display: flex;
 }
@@ -69,6 +72,11 @@ ul li {
     padding-top: 10%;
 }
 .sec3 h2{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 2%;
+}
+.sec4 h2{
     text-align: center;
     font-size: 30px;
     padding-top: 2%;
