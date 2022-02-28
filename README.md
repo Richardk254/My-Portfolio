@@ -1,10 +1,7 @@
 #### By Richard Koinange
 ## Description
-This is an Insurance website aimed at making people aware of what they offer and how they operate.
-The main objective of this project is to increase customer relation and productivity.
-It enables customer reach out.
-This projects helps individuals to browse over the website and get more information about the Insurance company.
-This project is useful in that navigation through the website is made easy with no errors.
+This is my personal porfolio website.
+The information provided and found in the website describes my career, profession, skills and hobbies at large.
 ## Setup/Installation Requirements
 You must be having visual studio installed so as to write your code with.
 git should be installed
